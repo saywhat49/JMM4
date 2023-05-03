@@ -4,8 +4,8 @@ JMM is a Joomla Extension for managing Mysql Datbase from the joomla administrat
 
 ### Download JMM
 
-* [Download For Joomla 3.x.x.zip ](https://github.com/saywhat49/jmm/archive/j3x.zip)
-* [Download For Joomla 3.x.x.tar.gz ](https://github.com/saywhat49/jmm/archive/j3x.tar.gz)
+* [Download For Joomla 3.2.0.zip ](https://github.com/saywhat49/jmm/archive/j3.2.0.zip)
+* [Download For Joomla 3.x.x.tar.gz ](https://github.com/saywhat49/jmm/archive/j3.2.0.tar.gz)
 
 ### How to Install JMM
 
